@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">TikIA</string>
+    <string name="error_offline_title">Connexion indisponible</string>
+    <string name="error_offline_desc">Vérifiez votre connexion Internet pour utiliser votre assistant TikIA.</string>
+    <string name="action_retry">Réessayer</string>
+    <string name="loading_assistant">Lancement de TikIA…</string>
+    <string name="press_again_to_exit">Appuyez encore une fois pour quitter</string>
+</resources>
+
